@@ -10,7 +10,6 @@
                     <h2>THE MORTGAGE FORCE</h2>
                     <p>Join one of Alberta’s fastest growing brokerage</p>
                     <a href="#" class="glb-btn">Book Now</a>
-                    l
                 </div>
             </div>
          </div>
