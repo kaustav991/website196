@@ -1,11 +1,63 @@
 /* menubar */
+@media screen and (max-width: 1200px) {
+  header .btn-sec a.glb-btn {
+    font-size: 11px;
+    padding: 6px 12px;
+  }
+
+  header nav .menu-item-has-children ul.sub-menu li a {
+    padding: 0.525rem 1.05rem;
+    font-size: 13px;
+    line-height: 17px;
+  }
+
+  header nav ul li a {
+    font-size: 0.9rem;
+    line-height: 1.1875rem;
+    margin-right: 0.9125rem;
+  }
+
+  header nav .menu-item-has-children>a::after {
+    right: -0.325rem;
+  }
+
+  .hm-section2 .service-card .s-tx h3 {
+    word-break: break-all;
+  }
+
+  .hm-section2 .col-md-3 {
+    margin-bottom: 20px;
+  }
+
+  .hm-section2 .service-card {
+    height: 100%;
+  }
+}
 @media(max-width:1199px) {
   header {
-      padding: 0;
-    }
-  .header .bottom-header{
+    padding: 0;
+  }
+
+  header .top-header h6,
+  .top-header a {
+    font-size: 0.7rem;
+    line-height: 1.1875rem;
+
+  }
+
+  header .bottom-header,
+  header .bottom-header .container {
     position: relative;
   }
+
+  header .btn-sec {
+    justify-content: flex-start;
+  }
+
+  header .btn-sec a.glb-btn {
+    margin-left: 1rem;
+  }
+
   .slim-container .slim-nav ul {
     display: block;
   }
@@ -15,8 +67,8 @@
   }
 
   .slim-container a.slimNav_sk78-reveal {
-    color: #000;
-    top: 0.7rem !important;
+    color: #fff;
+    top: 1.5rem !important;
     font-size: 1.5625rem !important;
     padding: 0.5rem 0.8125rem 0.6875rem 0.8125rem;
   }
@@ -26,13 +78,14 @@
   }
 
   .slim-container .slim-nav {
-    margin-top: 4.475rem;
+    margin-top: 5.975rem;
     background: linear-gradient(95.47deg, #103669 25.08%, #09254b 106.74%);
   }
 
   .slim-container .slim-nav ul li a {
-    padding: 0.7em 5%;
+    padding: 0.7em 2%;
     font-size: 0.8rem;
+    width: 96%;
   }
 
 
@@ -44,16 +97,156 @@
   }
 
   .slim-container a.slimNav_sk78-reveal span {
-    color: #000 !important;
+    color: #fff !important;
   }
 
   .slim-container a.slimNav_sk78-reveal span {
-    background: #000;
-    margin-top: 0.4375rem;
+    background: #fff;
+    margin-top: 0.3375rem;
+  }
+
+  header {
+    animation: none !important;
+    position: static !important;
+  }
+
+  header.sticky {
+    animation: none !important;
+    position: static !important;
+  }
+
+  .banner-section .bntx h2,
+  .hm-section1 h2,
+  .hm-section6 h2,
+  h2 {
+    font-size: 2.4rem;
+    line-height: 2.825rem;
+  }
+
+  .banner-section .bntx a.glb-btn {
+    margin-top: 1.25rem;
+  }
+
+  .hm-section1,
+  .hm-section4,
+  .hm-section6,
+  .hm-section7,
+  .hm-section8 {
+    padding: 3rem 0;
+  }
+
+  footer form input[type=submit] {
+    padding: 0.575rem 0.95rem;
+    position: static;
+    margin-top: 7px;
+  }
+
+  footer form {
+    display: block;
+  }
+
+  footer ul li a {
+    font-size: 0.9rem;
+  }
+
+  .hm-section4 .award-box img {
+    height: 10rem;
+  }
+
+  .hm-section2 .service-card .s-tx p {
+    min-height: inherit;
+  }
+
+  footer form input:not([type=submit]) {
+    background: transparent;
+    outline: 0rem;
+    border: 0.0625rem solid #ffffff;
+    font-size: 11px;
+    color: #fff;
+  }
+
+  footer form input:not([type=submit]):placeholder {
+    font-size: 11px;
   }
 }
 
+@media screen and (max-width: 991px) {
+  header .btn-sec {
+    justify-content: flex-start;
+    position: absolute;
+    right: 30px;
+    top: 27px;
+    width: 260px;
+  }
 
+  header .btn-sec a.glb-btn {
+    margin: 0 5px !important;
+  }
+
+  .top-header .col-md-9,
+  .top-header .col-md-3 {
+    width: 50%;
+  }
+
+  .top-header .col-md-3 {
+    display: flex;
+    justify-content: flex-end;
+  }
+
+  .hm-section1 p {
+    line-height: 1rem;
+  }
+
+  .hm-section2 .col-md-3,
+  .hm-section7 .col-md-4 {
+    width: 50%;
+  }
+
+  .hm-section7 .col-md-4 {
+    margin-bottom: 20px;
+  }
+
+  .hm-section4 .award-box img {
+    height: 5rem;
+  }
+
+  .hm-section6 .agent-card {
+    background: #f2f3f5;
+    border-radius: 1.25rem;
+    padding: 4.7375rem 0.65rem 1.2rem;
+    position: relative;
+    margin-top: 6.25rem;
+  }
+
+  .hm-section6 .agent-card {
+    background: #f2f3f5;
+    border-radius: 1.25rem;
+    padding: 2.9375rem 0.65rem 1.2rem;
+    position: relative;
+    margin-top: 5.05rem;
+  }
+
+  .hm-section6 .agent-card>img {
+    width: 130px;
+  }
+
+  .hm-section8 h2 {
+    text-align: center;
+    margin-bottom: 0;
+  }
+
+  footer ul li a {
+    font-size: 0.8rem;
+  }
+
+  footer form input[type=submit] {}
+
+  footer .copy-right {
+    padding: 0.15rem 0;
+    margin-top: 1rem;
+    border-top: 0.0625rem solid rgba(255, 255, 255, 0.2);
+  }
+}
 
 /* for tab  only */
 /* for tab only */
@@ -61,7 +254,7 @@
 @media (min-width: 768px) and (max-width: 991px) {
   h2 {
     font-size: 1.8rem !important;
-    line-height: 2.7rem !important;
+    line-height: 2.1rem !important;
   }
 
   .banner a.glb-btn {
@@ -96,17 +289,17 @@
     font-size: 0.95rem;
   }
 
-  h3 {
+  /* h3 {
     font-size: 1.6rem !important;
     line-height: 2rem;
-  }
+  } */
 
   header .btn-sec a.glb-btn {
     margin-right: 1.375rem;
   }
 
   header {
-    padding: 0.35rem 0;
+    padding: 0;
   }
 
   .hm-section2 .price-card h4 {
@@ -130,9 +323,9 @@
     margin-bottom: 2.75rem;
   }
 
-  .hm-section2 {
+  /* .hm-section2 {
     padding: 2.75rem 0;
-  }
+  } */
 
   .hm-section3 {
     padding: 2rem 0 1.25rem;
@@ -168,9 +361,9 @@
     padding: 0.55rem 0;
   }
 
-  footer form input[type=submit] {
+  /* footer form input[type=submit] {
     padding: 0.75rem 0.975rem;
-  }
+  } */
 
   .hm-section1 .nth-sec {
     margin-top: 0.2375rem;
@@ -197,9 +390,10 @@
     padding-top: 8.5rem;
   }
 
-  section.hm-section1 .glb-btn {
+  /* section.hm-section1 .glb-btn {
     margin-bottom: 30px;
-  }
+  } */
+
 }
 
 
@@ -519,6 +713,21 @@
   .help-center-acc ul.accordion {
     margin-bottom: 1.75rem;
   }
+
+
+  header .btn-sec {
+    justify-content: flex-start;
+    position: absolute;
+    right: 30px;
+    top: 17px;
+    width: 198px;
+  }
+
+  header .btn-sec a.glb-btn {
+    font-size: 8px;
+    padding: 6px 12px;
+    line-height: 15px;
+  }
 }
 
 
@@ -536,40 +745,7 @@
 
 
 
-@media screen and (max-width: 1200px) {
-  header .btn-sec a.glb-btn {
-    font-size: 11px;
-    padding: 6px 12px;
-  }
 
-  header nav .menu-item-has-children ul.sub-menu li a {
-    padding: 0.525rem 1.05rem;
-    font-size: 13px;
-    line-height: 17px;
-  }
-
-  header nav ul li a {
-    font-size: 0.9rem;
-    line-height: 1.1875rem;
-    margin-right: 0.9125rem;
-  }
-
-  header nav .menu-item-has-children>a::after {
-    right: -0.325rem;
-  }
-
-  .hm-section2 .service-card .s-tx h3 {
-    word-break: break-all;
-  }
-
-  .hm-section2 .col-md-3 {
-    margin-bottom: 20px;
-  }
-
-  .hm-section2 .service-card {
-    height: 100%;
-  }
-}
 
 /* desktop submenu */
 @media (min-width: 1025px) {
