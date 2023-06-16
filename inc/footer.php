@@ -31,7 +31,7 @@
                     <li><a href="#">Technology Forward</a></li>
                 </ul>
             </div>
-            <div class="col-lg-3 col-md-5">
+            <div class="col-lg-3 col-md-4">
                 <h3>Newsletter</h3>
                 <form action="">
                     <input type="email" name="" placeholder="Email">
