@@ -1366,3 +1366,35 @@ input[type="number"]::-webkit-outer-spin-button {
     }
   }
 }
+.booknow {
+  .contactwrap {
+    position: relative;
+    margin-bottom: 1.875rem;
+    label {
+      position: absolute;
+      top: -0.6875rem;
+      left: 0.75rem;
+      font-family: "Inter";
+      font-style: normal;
+      font-weight: 400;
+      font-size: 1rem;
+      line-height: 1.375rem;
+      color: #878787;
+      background-color: white;
+      padding: 0 0.4375rem;
+      margin-bottom: 0;
+    }
+  }
+  input:not([type="submit"]) {
+    border: 0.0625rem solid #878787;
+    padding: 0.625rem 0.9375rem;
+    width: 100%;
+    font-size: 1rem;
+    line-height: 1.375rem;
+    color: #878787;
+  }
+  input[type="checkbox"] {
+    width: auto;
+    margin: 0 0.5rem 0 0;
+  }
+}

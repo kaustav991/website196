@@ -9,7 +9,7 @@
                         <h5>WELCOME TO</h5>
                         <h2>THE MORTGAGE FORCE</h2>
                         <p>Join one of Alberta’s fastest growing brokerage</p>
-                        <a href="#" class="glb-btn">Book Now</a>
+                        <a href="#" data-bs-toggle="modal" data-bs-target="#exampleModal" class="glb-btn">Book Now</a>
                     </div>
                 </div>
             </div>

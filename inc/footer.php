@@ -48,6 +48,59 @@
     </div>
 </footer>
 
+<!-- Modal -->
+<div class="modal booknow fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-lg">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Contact Us</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <form action="">
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="contactwrap">
+                        <label for="">Name</label>
+                        <input type="text">
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="contactwrap">
+                        <label for="">Last Name</label>
+                        <input type="text">
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="contactwrap">
+                        <label for="">Email</label>
+                        <input type="email">
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="contactwrap">
+                        <label for="">Phone Number</label>
+                        <input type="tel">
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-12">
+                <p><strong>Please Check The Following:</strong></p>
+                <label><input type="checkbox" name="" id=""> Have you completed your RECA education requirements</label>
+            </div>
+            <div class="col-md-12">
+                <div class="contactwrap">
+                    <label>If no, please explain if you are enrolled or plan to enroll</label>
+                    <textarea name="" id="" cols="30" rows="10"></textarea>
+                </div>
+            </div>
+            <input type="submit" class="btn" value="Submit">
+        </form>
+      </div>
+    </div>
+  </div>
+</div>
+
 
 <script src="js/jquery.min.js"></script>
 <script src="js/jquery.slimNav_sk78.min.js"></script>

@@ -58,31 +58,30 @@
                                 </div>
                             </div>
                         </div>
-
-                    <h5>Resume/Cover Letter Upload</h5>
-                    <div class="drop-zone">
-                        <span class="drop-zone__prompt">
-                        <img src="images/gallery-export.svg" alt="">
-                        Drop and drop files here, or <span class="color">browse</span></span>
-                        <input type="file" name="myFile" class="drop-zone__input">
-                    </div>
-                    <h5>Please Check The Following:</h5>
-                    <label>
-                        <input type="checkbox">I am actively enrolled in the RECA MAP program
-                    </label>
-                    <label>
-                        <input type="checkbox">I have completed the RECA MAP program and am ready for licensing
-                    </label>
-                    <label>
-                        <input type="checkbox">How Did You Hear About Us?
-                    </label>
-                    <label>
-                        <input type="checkbox">I am neither enrolled In, nor have completed the program
-                    </label>
-                    <label>
-                        <input type="checkbox">Other
-                    </label>
-                    <input type="submit" class="btn" value="Submit">
+                        <h5>Resume/Cover Letter Upload</h5>
+                        <div class="drop-zone">
+                            <span class="drop-zone__prompt">
+                            <img src="images/gallery-export.svg" alt="">
+                            Drop and drop files here, or <span class="color">browse</span></span>
+                            <input type="file" name="myFile" class="drop-zone__input">
+                        </div>
+                        <h5>Please Check The Following:</h5>
+                        <label>
+                            <input type="checkbox">I am actively enrolled in the RECA MAP program
+                        </label>
+                        <label>
+                            <input type="checkbox">I have completed the RECA MAP program and am ready for licensing
+                        </label>
+                        <label>
+                            <input type="checkbox">How Did You Hear About Us?
+                        </label>
+                        <label>
+                            <input type="checkbox">I am neither enrolled In, nor have completed the program
+                        </label>
+                        <label>
+                            <input type="checkbox">Other
+                        </label>
+                        <input type="submit" class="btn" value="Submit">
                     </form>
                 </div>
                 <div class="col-md-6">
