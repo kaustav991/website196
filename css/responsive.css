@@ -1,132 +1,12 @@
-@media (min-width: 1024px) and (max-width: 1100px) {
-  .hm-section2 .price-card h4 {
-    font-size: 1.2rem;
-  }
-
-  .hm-section2 .price-card h4 span {
-    padding: 0.75rem 0.7rem;
-  }
-
-  header .btn-sec a.glb-btn {
-    padding: 0.75rem 0.975rem;
-    margin-left: 0.175rem;
-  }
-
-  h3 {
-    font-size: 1.735rem;
-  }
-
-  h2,
-  .banner h2 {
-    font-size: 2.4rem;
-  }
-
-  header a {
-    font-size: 12px;
-  }
-
-  .hm-section2 .price-card ul.list li {
-    font-size: 0.8rem;
+@media screen and (max-width:1199px) {
+  header {
+    padding: 0;
   }
 }
 
 
-/* for tab and ipad header only */
-/* for tab ipad  header only */
-/* for tab ipad  header only */
-@media (min-width: 768px) and (max-width: 1023px) {
-  .bottom-header {
-    padding: 18px 0;
-  }
-
-  .home-sec3 .service-card .tx-hov {
-    opacity: 1 !important;
-  }
-
-  .home-sec3 .service-card .tx img,
-  .home-sec3 .service-card .tx {
-    height: 12.5rem;
-  }
-
-  .home-sec3 .service-card .tx img,
-  .home-sec3 .service-card .tx h4 {
-    display: none;
-  }
-
-  .home-sec3 .service-card .tx-hov {
-    bottom: 1.75rem;
-  }
-
-  .home-sec3 .service-card::before {
-    content: none;
-  }
-
-  .home-sec3 {
-    padding-bottom: 0;
-  }
-
-  .home-sec3 .service-card .tx-hov .glb-btn {
-    display: inline-block;
-    position: relative;
-    z-index: 9;
-  }
-
-  .bottom-header .container {
-    position: relative;
-  }
-
-  .recent-articles .rec-articles-list .rec-details .user-date ul {
-    flex-wrap: wrap;
-  }
-
-  .recent-articles .rec-articles-list .rec-details p {
-    margin-top: 0.475rem;
-  }
-
-  .recent-articles .rec-articles-list .rec-details .user-date ul li {
-    margin-bottom: 0.175rem;
-  }
-
-  .bottom-header .slim-container .slim-bar {
-    position: absolute;
-    right: 0px;
-    background: transparent;
-    top: 0px;
-  }
-
-  .bottom-header .slim-container a.slimNav_sk78-reveal span {
-    background: #000;
-  }
-
-  .bottom-header .slim-container a.slimNav_sk78-reveal {
-    color: #000;
-    right: 0 !important;
-    top: 4px;
-  }
-
-  .bottom-header .slim-container .slim-nav ul {
-    flex-direction: column;
-  }
-
-  .bottom-header .slim-container .slim-nav {
-    margin-top: 76px;
-    left: 0;
-    position: fixed !important;
-    background: #1d4469;
-  }
-
-  header .logo-sec {
-    position: relative;
-    padding: 0px 22px;
-    z-index: 9999999;
-  }
-
-  header {
-    position: fixed;
-    width: 100%;
-    background: #fff;
-    z-index: 999;
-  }
+/* menubar */
+@media(max-width:900px) {
 
   .slim-container .slim-nav ul {
     display: block;
@@ -158,12 +38,12 @@
   }
 
 
-  div#navigation {
+  /* div#navigation {
     position: absolute;
     right: 0;
     top: 0;
     width: 100%;
-  }
+  } */
 
   .slim-container a.slimNav_sk78-reveal span {
     color: #000 !important;
@@ -173,24 +53,9 @@
     background: #000;
     margin-top: 0.4375rem;
   }
-
-  .logo-sec {
-    position: relative;
-    z-index: 99999999;
-  }
-
-  header nav ul li {
-    padding-left: 0;
-  }
-
-  .btn-sec {
-    text-align: right;
-    justify-content: flex-end;
-    top: 0.7rem;
-    z-index: 9999999;
-  }
-
 }
+
+
 
 /* for tab  only */
 /* for tab only */
@@ -339,6 +204,8 @@
   }
 }
 
+
+
 @media (max-width:767px) {
 
   html {
@@ -376,51 +243,6 @@
     z-index: 999;
   }
 
-  .slim-container .slim-nav ul {
-    display: block;
-  }
-
-  .slim-container .slim-bar {
-    background: transparent;
-  }
-
-  .slim-container a.slimNav_sk78-reveal {
-    color: #000;
-    top: 0.7rem !important;
-    font-size: 1.5625rem !important;
-    padding: 0.5rem 0.8125rem 0.6875rem 0.8125rem;
-  }
-
-  .slimclose {
-    padding-top: 1rem !important;
-  }
-
-  .slim-container .slim-nav {
-    margin-top: 4.475rem;
-    background: linear-gradient(95.47deg, #103669 25.08%, #09254b 106.74%);
-  }
-
-  .slim-container .slim-nav ul li a {
-    padding: 0.7em 5%;
-    font-size: 0.8rem;
-  }
-
-
-  div#navigation {
-    position: absolute;
-    right: 0;
-    top: 0;
-    width: 100%;
-  }
-
-  .slim-container a.slimNav_sk78-reveal span {
-    color: #000 !important;
-  }
-
-  .slim-container a.slimNav_sk78-reveal span {
-    background: #000;
-    margin-top: 0.4375rem;
-  }
 
   .logo-sec {
     width: 5rem;
@@ -704,7 +526,7 @@
 
 
 
-
+/* for big screen break */
 
 @media(min-width:1025px) and (max-width:1400px) {
   html {
@@ -713,7 +535,46 @@
 }
 
 
-@media (min-width: 64.0625rem) {
+
+
+
+@media screen and (max-width: 1200px) {
+  header .btn-sec a.glb-btn {
+    font-size: 11px;
+    padding: 6px 12px;
+  }
+
+  header nav .menu-item-has-children ul.sub-menu li a {
+    padding: 0.525rem 1.05rem;
+    font-size: 13px;
+    line-height: 17px;
+  }
+
+  header nav ul li a {
+    font-size: 0.9rem;
+    line-height: 1.1875rem;
+    margin-right: 0.9125rem;
+  }
+
+  header nav .menu-item-has-children>a::after {
+    right: -0.325rem;
+  }
+
+  .hm-section2 .service-card .s-tx h3 {
+    word-break: break-all;
+  }
+
+  .hm-section2 .col-md-3 {
+    margin-bottom: 20px;
+  }
+
+  .hm-section2 .service-card {
+    height: 100%;
+  }
+}
+
+/* desktop submenu */
+@media (min-width: 1025px) {
   header nav .menu-item-has-children {
     position: relative;
     display: flex;
@@ -782,16 +643,12 @@
     border: none;
     transition: all 0.3s ease-in-out;
   }
-}
 
-@media (min-width: 64.0625rem) and (min-width: 64rem) {
   header nav .menu-item-has-children ul.sub-menu li a:hover {
     /* background: #fff; */
     color: #e27b01;
   }
-}
 
-@media (min-width: 64.0625rem) and (min-width: 64.0625rem) {
   header nav .menu-item-has-children:hover ul.sub-menu {
     opacity: 1;
     max-height: 31.25rem;
