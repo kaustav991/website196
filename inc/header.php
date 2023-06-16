@@ -47,7 +47,15 @@
                         <nav>
                             <ul>
                                 <li><a href="how-it-works.php">Home</a></li>
-                                <li><a href="pricing.php">Services</a></li>
+                                <li class="menu-item-has-children"><a href="pricing.php">Services</a>
+                                <ul class="sub-menu">
+                                    <li><a href="#!">New agent training and support</a></li>
+                                    <li><a href="#!">Weekly sales/mindset/ policy training:</a></li>
+                                    <li><a href="#!">Competitive splits and compensation</a></li>
+                                    <li><a href="#!">Dedicated marketing team and design centre</a></li>
+                                    <li><a href="#!">Technology forward</a></li>
+                                </ul>
+                                </li>
                                 <li><a href="help-center.php">Contact</a></li>
                                 <li><a href="contact.php">How to get licensed</a></li>
                                 <li><a href="contact.php">The DLC difference</a></li>
@@ -63,5 +71,5 @@
             </div>
         </div>
         </div>
-        
+
     </header>
