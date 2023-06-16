@@ -1,13 +1,12 @@
-<?php include "inc/header.php";?>
+<?php include "inc/header.php"; ?>
 
 <div class="innerbanner">
     <img src="images/innerbanner_agent-support.jpg" alt="">
     <div class="container">
-        <h2>Technology forward</h2>
+        <h2>The DLC difference</h2>
         <ul>
             <li><a href="#!">Home</a></li>
-            <li><a href="#!">Services</a></li>
-            <li>Technology forward</li>
+            <li>The DLC difference</li>
         </ul>
     </div>
 </div>
@@ -120,15 +119,15 @@
             <div class="col-md-6">
                 <div class="w530">
                     <h2>The Industry's Most Recognized Brand.</h2>
-                        <p>Branding helps explain what makes your product or service different and more desirable than the competition. Having a well-defined brand will bring credibility to your business and help you earn more. In today’s market, the end consumer relies on name recognition when it comes to selecting their preferred company.</p>
-                        <p>
-                            <strong>What does this mean?</strong>
-                        </p>
-                        <ul>
-                            <li>Brands DO matter – customers choose who they know</li>
-                            <li>A recognizable brand inspires TRUST — that’s why we have invested over $30 million in advertising and showcasing the DLC name over the most watched television networks, special event coverage and digital platforms.</li>
-                            <li>We are building a brand with credibility through name recognition via advertising; integrity with our everyday interactions; and expert insights from Chief Economist, Dr. Sherry Cooper.</li>
-                        </ul>
+                    <p>Branding helps explain what makes your product or service different and more desirable than the competition. Having a well-defined brand will bring credibility to your business and help you earn more. In today’s market, the end consumer relies on name recognition when it comes to selecting their preferred company.</p>
+                    <p>
+                        <strong>What does this mean?</strong>
+                    </p>
+                    <ul>
+                        <li>Brands DO matter – customers choose who they know</li>
+                        <li>A recognizable brand inspires TRUST — that’s why we have invested over $30 million in advertising and showcasing the DLC name over the most watched television networks, special event coverage and digital platforms.</li>
+                        <li>We are building a brand with credibility through name recognition via advertising; integrity with our everyday interactions; and expert insights from Chief Economist, Dr. Sherry Cooper.</li>
+                    </ul>
                 </div>
             </div>
             <div class="col-md-4">
@@ -189,4 +188,4 @@
     </div>
 </div>
 
-<?php include "inc/footer.php";?>
+<?php include "inc/footer.php"; ?>

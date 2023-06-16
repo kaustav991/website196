@@ -826,6 +826,16 @@ input[type=number]::-webkit-outer-spin-button {
   background-image: none;
   padding-left: 0;
 }
+.middle-section .middle-top ul.download li a {
+  border: none;
+  display: block;
+  padding: 0;
+  margin: 0;
+}
+.middle-section .middle-top ul.download li a img {
+  width: auto;
+  margin: 0;
+}
 .middle-section .middle-top ul + p {
   margin-top: 1.25rem;
 }
@@ -929,6 +939,10 @@ input[type=number]::-webkit-outer-spin-button {
 .middle-section .stillhvqstns p {
   max-width: inherit;
   margin-bottom: 0;
+}
+.middle-section.privatePg .middle-top a {
+  border: none;
+  color: #145096;
 }
 
 .contact-us textarea {

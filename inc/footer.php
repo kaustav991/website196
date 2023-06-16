@@ -15,7 +15,7 @@
                 <h3>Quick links</h3>
                 <nav>
                     <ul>
-                        <li><a href="#">Home</a></li>
+                        <li><a href="index.php">Home</a></li>
                         <li><a href="#">The DLC Difference</a></li>
                         <li><a href="#">Contact</a></li>
                         <li><a href="#">How to get licensed</a></li>
@@ -50,55 +50,55 @@
 
 <!-- Modal -->
 <div class="modal booknow fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-  <div class="modal-dialog modal-lg">
-    <div class="modal-content">
-      <div class="modal-header">
-        <h5 class="modal-title" id="exampleModalLabel">Contact Us</h5>
-        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-      </div>
-      <div class="modal-body">
-        <form action="">
-            <div class="row">
-                <div class="col-md-6">
-                    <div class="contactwrap">
-                        <label for="">Name</label>
-                        <input type="text">
-                    </div>
-                </div>
-                <div class="col-md-6">
-                    <div class="contactwrap">
-                        <label for="">Last Name</label>
-                        <input type="text">
-                    </div>
-                </div>
-                <div class="col-md-6">
-                    <div class="contactwrap">
-                        <label for="">Email</label>
-                        <input type="email">
-                    </div>
-                </div>
-                <div class="col-md-6">
-                    <div class="contactwrap">
-                        <label for="">Phone Number</label>
-                        <input type="tel">
-                    </div>
-                </div>
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Contact Us</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
             </div>
-            <div class="col-md-12 mb15">
-                <p class="mb15"><strong>Please Check The Following:</strong></p>
-                <label class="mb15"><input type="checkbox" name="" id=""> Have you completed your RECA education requirements</label>
+            <div class="modal-body">
+                <form action="">
+                    <div class="row">
+                        <div class="col-md-6">
+                            <div class="contactwrap">
+                                <label for="">Name</label>
+                                <input type="text">
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="contactwrap">
+                                <label for="">Last Name</label>
+                                <input type="text">
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="contactwrap">
+                                <label for="">Email</label>
+                                <input type="email">
+                            </div>
+                        </div>
+                        <div class="col-md-6">
+                            <div class="contactwrap">
+                                <label for="">Phone Number</label>
+                                <input type="tel">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-12 mb15">
+                        <p class="mb15"><strong>Please Check The Following:</strong></p>
+                        <label class="mb15"><input type="checkbox" name="" id=""> Have you completed your RECA education requirements</label>
+                    </div>
+                    <div class="col-md-12">
+                        <div class="contactwrap">
+                            <label>If no, please explain if you are enrolled or plan to enroll</label>
+                            <textarea name="" id=""></textarea>
+                        </div>
+                    </div>
+                    <input type="submit" class="btn" value="Submit">
+                </form>
             </div>
-            <div class="col-md-12">
-                <div class="contactwrap">
-                    <label>If no, please explain if you are enrolled or plan to enroll</label>
-                    <textarea name="" id=""></textarea>
-                </div>
-            </div>
-            <input type="submit" class="btn" value="Submit">
-        </form>
-      </div>
+        </div>
     </div>
-  </div>
 </div>
 
 

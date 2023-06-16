@@ -1,4 +1,4 @@
-<?php include "inc/header.php";?>
+<?php include "inc/header.php"; ?>
 
 <div class="innerbanner">
     <img src="images/innerbanner_agent-support.jpg" alt="">
@@ -12,7 +12,7 @@
     </div>
 </div>
 
-<div class="middle-section">
+<div class="middle-section privatePg">
     <div class="container">
         <div class="middle-top">
             <div class="row">
@@ -46,4 +46,4 @@
     </div>
 </div>
 
-<?php include "inc/footer.php";?>
+<?php include "inc/footer.php"; ?>
