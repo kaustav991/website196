@@ -36,40 +36,40 @@
             </div>
         </div>
         <div class="bottom-header">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-8 my-auto p-0 logo-menu-sec">
-                    <div class="logo-sec">
-                    <a href="index.php"><img src="images/logo.svg" alt="">
-                    </a>
-                    </div>
-                    <div id="navigation">
-                        <nav>
-                            <ul>
-                                <li><a href="how-it-works.php">Home</a></li>
-                                <li class="menu-item-has-children"><a href="pricing.php">Services</a>
-                                <ul class="sub-menu">
-                                    <li><a href="#!">New agent training and support</a></li>
-                                    <li><a href="#!">Weekly sales/mindset/ policy training:</a></li>
-                                    <li><a href="#!">Competitive splits and compensation</a></li>
-                                    <li><a href="#!">Dedicated marketing team and design centre</a></li>
-                                    <li><a href="#!">Technology forward</a></li>
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-8 my-auto p-0 logo-menu-sec">
+                        <div class="logo-sec">
+                            <a href="index.php"><img src="images/logo.svg" alt="">
+                            </a>
+                        </div>
+                        <div id="navigation">
+                            <nav>
+                                <ul>
+                                    <li><a href="index.php">Home</a></li>
+                                    <li class="menu-item-has-children"><a href="#!">Services</a>
+                                        <ul class="sub-menu">
+                                            <li><a href="agent-training-support.php">New agent training and support</a></li>
+                                            <li><a href="weekly-sale.php">Weekly sales/mindset/ policy training:</a></li>
+                                            <li><a href="competative-splits.php">Competitive splits and compensation</a></li>
+                                            <li><a href="dedicated-marketing-team.php">Dedicated marketing team and design centre</a></li>
+                                            <li><a href="technology-forward.php">Technology forward</a></li>
+                                        </ul>
+                                    </li>
+                                    <li><a href="contact-us.php">Contact</a></li>
+                                    <li><a href="https://www.reca.ca/licensees-learners/licensing-renewals/getting-licensed/" target="_blank">How to get licensed</a></li>
+                                    <li><a href="dlc-difference.php">The DLC difference</a></li>
                                 </ul>
-                                </li>
-                                <li><a href="help-center.php">Contact</a></li>
-                                <li><a href="contact.php">How to get licensed</a></li>
-                                <li><a href="contact.php">The DLC difference</a></li>
-                            </ul>
-                        </nav>
-                    </div>
+                            </nav>
+                        </div>
 
-                </div>
-                <div class="col-md-4 btn-sec my-auto">
-                    <a href="#" class="glb-btn bordered-btn">Join our brokerage</a>
-                    <a href="#" class="glb-btn wh-glb-btn">Agent login</a>
+                    </div>
+                    <div class="col-md-4 btn-sec my-auto">
+                        <a href="#" class="glb-btn bordered-btn">Join our brokerage</a>
+                        <a href="#" class="glb-btn wh-glb-btn">Agent login</a>
+                    </div>
                 </div>
             </div>
-        </div>
         </div>
 
     </header>
