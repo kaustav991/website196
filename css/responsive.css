@@ -1,13 +1,11 @@
-@media screen and (max-width:1199px) {
-  header {
-    padding: 0;
-  }
-}
-
-
 /* menubar */
-@media(max-width:900px) {
-
+@media(max-width:1199px) {
+  header {
+      padding: 0;
+    }
+  .header .bottom-header{
+    position: relative;
+  }
   .slim-container .slim-nav ul {
     display: block;
   }
@@ -38,12 +36,12 @@
   }
 
 
-  /* div#navigation {
+  div#navigation {
     position: absolute;
     right: 0;
     top: 0;
     width: 100%;
-  } */
+  }
 
   .slim-container a.slimNav_sk78-reveal span {
     color: #000 !important;
