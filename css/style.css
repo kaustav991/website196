@@ -993,13 +993,17 @@ input[type=number]::-webkit-outer-spin-button {
   padding: 0 0.4375rem;
   margin-bottom: 0;
 }
-.contact-us input:not([type=submit]) {
+.contact-us input:not([type=submit]),
+.contact-us textarea {
   border: 0.0625rem solid #878787;
   padding: 0.625rem 0.9375rem;
   width: 100%;
   font-size: 1rem;
   line-height: 1.375rem;
   color: #878787;
+}
+.contact-us textarea {
+  height: 77px;
 }
 .contact-us input[type=checkbox] {
   width: auto;
@@ -1329,6 +1333,33 @@ input[type=number]::-webkit-outer-spin-button {
   margin-top: 0;
 }
 
+.booknow .modal-header {
+  border: none;
+  padding: 40px;
+}
+.booknow .modal-header .btn-close {
+  font-size: 10px;
+  opacity: 1;
+  border: 2px solid #000;
+  border-radius: 50%;
+}
+.booknow .modal-body {
+  padding: 40px;
+  padding-top: 0;
+}
+.booknow .modal-content {
+  border-radius: 16px;
+}
+.booknow h5 {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 39px;
+  /* identical to box height */
+  text-align: center;
+  color: #000000;
+}
 .booknow .contactwrap {
   position: relative;
   margin-bottom: 1.875rem;
@@ -1358,4 +1389,23 @@ input[type=number]::-webkit-outer-spin-button {
 .booknow input[type=checkbox] {
   width: auto;
   margin: 0 0.5rem 0 0;
+}
+.booknow input[type=submit] {
+  padding: 0.75rem 4.25rem;
+}
+.booknow textarea {
+  height: 77px;
+  border: 0.0625rem solid #878787;
+  padding: 0.625rem 0.9375rem;
+  width: 100%;
+  font-size: 1rem;
+  line-height: 1.375rem;
+  color: #878787;
+  resize: none;
+}
+.booknow .mb15 {
+  margin-bottom: 15px;
+}
+.booknow .mb15 strong {
+  color: black;
 }/*# sourceMappingURL=style.css.map */

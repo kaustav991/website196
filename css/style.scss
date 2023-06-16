@@ -1023,13 +1023,17 @@ input[type="number"]::-webkit-outer-spin-button {
       margin-bottom: 0;
     }
   }
-  input:not([type="submit"]) {
+  input:not([type="submit"]),
+  textarea {
     border: 0.0625rem solid #878787;
     padding: 0.625rem 0.9375rem;
     width: 100%;
     font-size: 1rem;
     line-height: 1.375rem;
     color: #878787;
+  }
+  textarea {
+    height: 77px;
   }
   input[type="checkbox"] {
     width: auto;
@@ -1367,6 +1371,35 @@ input[type="number"]::-webkit-outer-spin-button {
   }
 }
 .booknow {
+  .modal-header {
+    border: none;
+    padding: 40px;
+    .btn-close {
+      font-size: 10px;
+      opacity: 1;
+      border: 2px solid #000;
+      border-radius: 50%;
+    }
+  }
+  .modal-body {
+    padding: 40px;
+    padding-top: 0;
+  }
+  .modal-content {
+    border-radius: 16px;
+  }
+  h5 {
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 39px;
+    /* identical to box height */
+
+    text-align: center;
+
+    color: #000000;
+  }
   .contactwrap {
     position: relative;
     margin-bottom: 1.875rem;
@@ -1396,5 +1429,24 @@ input[type="number"]::-webkit-outer-spin-button {
   input[type="checkbox"] {
     width: auto;
     margin: 0 0.5rem 0 0;
+  }
+  input[type="submit"] {
+    padding: 0.75rem 4.25rem;
+  }
+  textarea {
+    height: 77px;
+    border: 0.0625rem solid #878787;
+    padding: 0.625rem 0.9375rem;
+    width: 100%;
+    font-size: 1rem;
+    line-height: 1.375rem;
+    color: #878787;
+    resize: none;
+  }
+  .mb15 {
+    margin-bottom: 15px;
+    strong {
+      color: black;
+    }
   }
 }

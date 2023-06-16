@@ -84,14 +84,14 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-12">
-                <p><strong>Please Check The Following:</strong></p>
-                <label><input type="checkbox" name="" id=""> Have you completed your RECA education requirements</label>
+            <div class="col-md-12 mb15">
+                <p class="mb15"><strong>Please Check The Following:</strong></p>
+                <label class="mb15"><input type="checkbox" name="" id=""> Have you completed your RECA education requirements</label>
             </div>
             <div class="col-md-12">
                 <div class="contactwrap">
                     <label>If no, please explain if you are enrolled or plan to enroll</label>
-                    <textarea name="" id="" cols="30" rows="10"></textarea>
+                    <textarea name="" id=""></textarea>
                 </div>
             </div>
             <input type="submit" class="btn" value="Submit">
