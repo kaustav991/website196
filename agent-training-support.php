@@ -18,13 +18,13 @@
             <div class="row">
                 <div class="col-md-6">
                     <div class="mid-txt">
-                        <h3>New agent training and support</h3>
-                        <p>We provide one-on-one in classroom/zoom training for all new and existing associates. This training will ensure that you have a foundation to build your business on.</p>
-                        <p>In addition to this training, we have a dedicated support system to help you through every step of your mortgage transaction. With hands on guidance through software, processes, and systems, we want to maximize your chances of success.</p>
+                        <h3 data-aos="fade-right" data-aos-delay="50">New agent training and support</h3>
+                        <p data-aos="fade-right" data-aos-delay="70">We provide one-on-one in classroom/zoom training for all new and existing associates. This training will ensure that you have a foundation to build your business on.</p>
+                        <p data-aos="fade-right" data-aos-delay="100">In addition to this training, we have a dedicated support system to help you through every step of your mortgage transaction. With hands on guidance through software, processes, and systems, we want to maximize your chances of success.</p>
                     </div>
                 </div>
                 <div class="col-md-6">
-                    <div class="mid-img">
+                    <div class="mid-img" data-aos="fade-left" data-aos-delay="50">
                         <img src="images/middleimage-1.jpg" alt="">
                     </div>
                 </div>
@@ -32,32 +32,32 @@
         </div>
 
         <div class="middle-list">
-            <h4>We cover topics such as;</h4>
+            <h4 data-aos="fade-up" data-aos-delay="20">We cover topics such as;</h4>
             <ul>
-                <li>Ethics and fraud prevention</li>
-                <li>Lender/ Insurer types</li>
-                <li>Client conversations</li>
+                <li data-aos="fade-up" data-aos-delay="50">Ethics and fraud prevention</li>
+                <li data-aos="fade-up" data-aos-delay="70">Lender/ Insurer types</li>
+                <li data-aos="fade-up" data-aos-delay="100">Client conversations</li>
 
-                <li>Basic mortgage terminology and concepts</li>
-                <li>Understanding credit scores and reports</li>
-                <li>Specialty mortgage financing programs</li>
+                <li data-aos="fade-up" data-aos-delay="120">Basic mortgage terminology and concepts</li>
+                <li data-aos="fade-up" data-aos-delay="150">Understanding credit scores and reports</li>
+                <li data-aos="fade-up" data-aos-delay="180">Specialty mortgage financing programs</li>
 
-                <li>Advanced concepts</li>
-                <li>Income and down payment guidelines</li>
-                <li>Application platform and software training</li>
+                <li data-aos="fade-up" data-aos-delay="200">Advanced concepts</li>
+                <li data-aos="fade-up" data-aos-delay="220">Income and down payment guidelines</li>
+                <li data-aos="fade-up" data-aos-delay="250">Application platform and software training</li>
 
-                <li>Marketing; How to attract clients and referral sources</li>
-                <li>Application process</li>
-                <li>Foundations of a mortgage application</li>
+                <li data-aos="fade-up" data-aos-delay="280">Marketing; How to attract clients and referral sources</li>
+                <li data-aos="fade-up" data-aos-delay="300">Application process</li>
+                <li data-aos="fade-up" data-aos-delay="320">Foundations of a mortgage application</li>
             </ul>
         </div>
 
         <div class="stillhvqstns">
-            <div class="s-left">
+            <div class="s-left" data-aos="fade-right">
                 <h4>Still have questions?</h4>
                 <p>Can’t find the answer you’re looking for? Please chat to our friendly team.</p>
             </div>
-            <div class="s-right">
+            <div class="s-right" data-aos="fade-left">
                 <a href="#!" class="btn">Get in touch</a>
             </div>
         </div>

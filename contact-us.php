@@ -16,7 +16,7 @@
         <div class="contact-top">
             <h3>Contact Us</h3>
             <div class="row">
-                <div class="col-md-6">
+                <div class="col-md-6" data-aos="fade-down">
                     <h4>We'd love to hear from you!</h4>
                     <form action="">
                         <div class="row">
@@ -83,7 +83,7 @@
                         <input type="submit" class="btn" value="Submit">
                     </form>
                 </div>
-                <div class="col-md-6">
+                <div class="col-md-6" data-aos="fade-up">
                     <div class="contactright">
                         <h4>Connect with us</h4>
                         <p>Reach out to us for any inquiries, assistance, or guidance you may need.</p>
@@ -107,16 +107,16 @@
             </div>
         </div>
 
-        <div class="map-area">
+        <div class="map-area" data-aos="fade-down">
             <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d22550.121599397604!2d-93.2703270381217!3d45.04998641796572!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x52b32e3f7b9661fb%3A0x71030bc70436c951!2sColumbia%20Heights%2C%20MN%2055421%2C%20USA!5e0!3m2!1sen!2sin!4v1686831813540!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         </div>
 
         <div class="stillhvqstns">
-            <div class="s-left">
+            <div class="s-left" data-aos="fade-right">
                 <h4>Still have questions?</h4>
                 <p>Can’t find the answer you’re looking for? Please chat to our friendly team.</p>
             </div>
-            <div class="s-right">
+            <div class="s-right" data-aos="fade-left">
                 <a href="#!" class="btn">Get in touch</a>
             </div>
         </div>

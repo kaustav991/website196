@@ -6,10 +6,10 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-6">
-                        <h5>WELCOME TO</h5>
-                        <h2>THE MORTGAGE FORCE</h2>
-                        <p>Join one of Alberta’s fastest growing brokerage</p>
-                        <a href="#" data-bs-toggle="modal" data-bs-target="#exampleModal" class="glb-btn">Book Now</a>
+                        <h5 data-aos="fade-right">WELCOME TO</h5>
+                        <h2 data-aos="fade-right" data-aos-delay="50">THE MORTGAGE FORCE</h2>
+                        <p data-aos="fade-right" data-aos-delay="100">Join one of Alberta’s fastest growing brokerage</p>
+                        <a data-aos-delay="150" data-aos="fade-right" href="#" data-bs-toggle="modal" data-bs-target="#exampleModal" class="glb-btn">Book Now</a>
                     </div>
                 </div>
             </div>
@@ -19,15 +19,15 @@
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-md-6">
-                    <div class="image-sec">
+                    <div class="image-sec" data-aos="fade-right">
                         <img src="images/hm-sec1.jpg" alt="">
                     </div>
 
                 </div>
                 <div class="col-md-5 offset-lg-1">
-                    <h2>Learn with us DLC Mortgage Force</h2>
-                    <p>At DLC Mortgage Force, our focus is to empower all our associates to be the best resources to their clients and referral sources. We focus on education, sales & personal development, mentorship, and collaboration to accomplish this goal. We have access to the best sales and marketing tools and are backed by one of the most powerful and recognizable brand names in the Canadian mortgage space. </p>
-                    <a href="#" class="glb-btn">Get in touch</a>
+                    <h2 data-aos="fade-left" data-aos-delay="50">Learn with us DLC Mortgage Force</h2>
+                    <p data-aos="fade-left" data-aos-delay="100">At DLC Mortgage Force, our focus is to empower all our associates to be the best resources to their clients and referral sources. We focus on education, sales & personal development, mentorship, and collaboration to accomplish this goal. We have access to the best sales and marketing tools and are backed by one of the most powerful and recognizable brand names in the Canadian mortgage space. </p>
+                    <a data-aos-delay="150" data-aos="fade-left" href="#" class="glb-btn">Get in touch</a>
                 </div>
             </div>
         </div>
@@ -36,12 +36,12 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12 text-md-center">
-                    <h2>Services</h2>
+                    <h2 data-aos="fade-up">Services</h2>
                 </div>
             </div>
             <div class="row">
                 <div class="col-md-3">
-                    <div class="service-card">
+                    <div class="service-card" data-aos="fade-up" data-aos-delay="50">
                         <img src="images/s1.jpg" alt="">
                         <div class="s-tx">
                             <h3>New agent, training and support -</h3>
@@ -51,7 +51,7 @@
                     </div>
                 </div>
                 <div class="col-md-3">
-                    <div class="service-card">
+                    <div class="service-card" data-aos="fade-up" data-aos-delay="70">
                         <img src="images/s2.jpg" alt="">
                         <div class="s-tx">
                             <h3>Weekly sales/ Mindset/ Policy training</h3>
@@ -61,7 +61,7 @@
                     </div>
                 </div>
                 <div class="col-md-3">
-                    <div class="service-card">
+                    <div class="service-card" data-aos="fade-up" data-aos-delay="100">
                         <img src="images/s3.jpg" alt="">
                         <div class="s-tx">
                             <h3>Competitive splits and compensation</h3>
@@ -71,7 +71,7 @@
                     </div>
                 </div>
                 <div class="col-md-3">
-                    <div class="service-card">
+                    <div class="service-card" data-aos="fade-up" data-aos-delay="120">
                         <img src="images/s4.jpg" alt="">
                         <div class="s-tx">
                             <h3>Dedicated marketing team and design centre</h3>
@@ -81,7 +81,7 @@
                     </div>
                 </div>
                 <div class="col-md-3">
-                    <div class="service-card">
+                    <div class="service-card" data-aos="fade-up" data-aos-delay="150">
                         <img src="images/s5.jpg" alt="">
                         <div class="s-tx">
                             <h3>Technology <br>
@@ -93,7 +93,7 @@
                 </div>
 
                 <div class="col-md-3">
-                    <div class="service-card">
+                    <div class="service-card" data-aos="fade-up" data-aos-delay="170">
                         <img src="images/s6.jpg" alt="">
                         <div class="s-tx">
                             <h3>Personalized Android/ iphone App and site</h3>
@@ -103,7 +103,7 @@
                     </div>
                 </div>
                 <div class="col-md-3">
-                    <div class="service-card">
+                    <div class="service-card" data-aos="fade-up" data-aos-delay="190">
                         <img src="images/s7.jpg" alt="">
                         <div class="s-tx">
                             <h3>mortgageforcebroker.com Resource website</h3>
@@ -114,7 +114,7 @@
                 </div>
 
                 <div class="col-md-3">
-                    <div class="service-card">
+                    <div class="service-card" data-aos="fade-up" data-aos-delay="210">
                         <img src="images/s8.jpg" alt="">
                         <div class="s-tx">
                             <h3>Private WhatsApp <br> group</h3>
@@ -133,12 +133,12 @@
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-4 col-md-5">
-                    <h2>We are​ here for​ all of your business ​needs</h2>
-                    <p>Let’s identify where you excel,​<br>
+                    <h2 data-aos="fade-right" data-aos-delay="50">We are​ here for​ all of your business ​needs</h2>
+                    <p data-aos="fade-right" data-aos-delay="100">Let’s identify where you excel,​<br>
                         and where you can improve.​DLC has got you covered.​</p>
                 </div>
                 <div class="col-md-6 offset-lg-2 offset-md-1">
-                    <img src="images/hm-sec3.png" alt="">
+                    <img data-aos="fade-left" src="images/hm-sec3.png" alt="">
                 </div>
             </div>
         </div>
@@ -147,17 +147,17 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12 text-center">
-                    <h2>Awards</h2>
+                    <h2 data-aos="fade-up" data-aos-delay="50">Awards</h2>
                 </div>
             </div>
             <div class="row justify-content-center">
                 <div class="col-md-4 px-4">
-                    <div class="award-box">
+                    <div class="award-box" data-aos="fade-up" data-aos-delay="150">
                         <img src="images/a1.png" alt="">
                     </div>
                 </div>
                 <div class="col-md-4 px-4">
-                    <div class="award-box">
+                    <div class="award-box" data-aos="fade-up" data-aos-delay="150">
                         <img src="images/a2.png" alt="">
                     </div>
                 </div>
@@ -170,9 +170,9 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-6">
-                        <h2>Dedicated marketing team and design centre</h2>
-                        <p>Free designs and marketing support, so you can focus on being the best broker you can be.</p>
-                        <a href="#" class="glb-btn">Learn more</a>
+                        <h2 data-aos="fade-right" data-aos-delay="50">Dedicated marketing team and design centre</h2>
+                        <p data-aos="fade-right" data-aos-delay="100">Free designs and marketing support, so you can focus on being the best broker you can be.</p>
+                        <a data-aos="fade-right" data-aos-delay="150" href="#" class="glb-btn">Learn more</a>
                     </div>
                 </div>
             </div>
@@ -182,12 +182,12 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <h2>What our Agents say</h2>
+                  <h2 data-aos="fade-up" data-aos-delay="50">What our Agents say</h2>
                 </div>
             </div>
             <div class="row">
                 <div class="col-md-4">
-                    <div class="agent-card">
+                    <div class="agent-card" data-aos="fade-up" data-aos-delay="100">
                         <img src="images/agent1.png" alt="">
                         <div class="tx">
                             <ul class="stars">
@@ -203,7 +203,7 @@
                     </div>
                 </div>
                 <div class="col-md-4">
-                    <div class="agent-card">
+                    <div class="agent-card" data-aos="fade-up" data-aos-delay="120">
                         <img src="images/agent2.png" alt="">
                         <div class="tx">
                             <ul class="stars">
@@ -219,7 +219,7 @@
                     </div>
                 </div>
                 <div class="col-md-4">
-                    <div class="agent-card">
+                    <div class="agent-card" data-aos="fade-up" data-aos-delay="150">
                         <img src="images/agent3.png" alt="">
                         <div class="tx">
                             <ul class="stars">
@@ -241,12 +241,12 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <h2>Featured Articles</h2>
+                    <h2 data-aos="fade-up" data-aos-delay="50">Featured Articles</h2>
                 </div>
             </div>
             <div class="row">
                 <div class="col-md-4">
-                    <div class="article-card">
+                    <div class="article-card" data-aos="fade-up" data-aos-delay="70">
                         <img src="images/article1.jpg" alt="">
                         <div class="tx">
                             <h3>Now You Can Blog from Everywhere!</h3>
@@ -261,7 +261,7 @@
                     </div>
                 </div>
                 <div class="col-md-4">
-                    <div class="article-card">
+                    <div class="article-card" data-aos="fade-up" data-aos-delay="100">
                         <img src="images/article2.jpg" alt="">
                         <div class="tx">
                             <h3>Design a Stunning Blog</h3>
@@ -276,7 +276,7 @@
                     </div>
                 </div>
                 <div class="col-md-4">
-                    <div class="article-card">
+                    <div class="article-card" data-aos="fade-up" data-aos-delay="120">
                         <img src="images/article3.jpg" alt="">
                         <div class="tx">
                             <h3>Grow Your Blog Community</h3>
@@ -297,33 +297,33 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2>Frequently Asked Questions</h2>
+                    <h2 data-aos="fade-up" data-aos-delay="50">Frequently Asked Questions</h2>
                     <ul class="accordion">
-                        <li class="active">
+                        <li class="active" data-aos="fade-up" data-aos-delay="70">
                             <h3>Is prior experience required to enroll in the training program?</h3>
                             <div class="content" style="display:block;">
                                 <p>No prior experience is required to enroll in our mortgage brokers training program. We welcome individuals with varying levels of experience, from beginners to professionals in related fields. Our training is designed to provide a solid foundation and advanced knowledge for all participants.</p>
                             </div>
                         </li>
-                        <li>
+                        <li data-aos="fade-up" data-aos-delay="100">
                             <h3>Who can benefit from mortgage brokers training?</h3>
                             <div class="content" style="display:none;">
                                 <p>The platform is designed to connect high school soccer players with coaches and teams, to help players reach the next level in their soccer careers.</p>
                             </div>
                         </li>
-                        <li>
+                        <li data-aos="fade-up" data-aos-delay="120">
                             <h3>What topics are covered in the mortgage brokers training?</h3>
                             <div class="content" style="display:none;">
                                 <p>The platform is designed to connect high school soccer players with coaches and teams, to help players reach the next level in their soccer careers.</p>
                             </div>
                         </li>
-                        <li>
+                        <li data-aos="fade-up" data-aos-delay="150">
                             <h3>How long is the training program, and is it self-paced?</h3>
                             <div class="content" style="display:none;">
                                 <p>The platform is designed to connect high school soccer players with coaches and teams, to help players reach the next level in their soccer careers.</p>
                             </div>
                         </li>
-                        <li>
+                        <li data-aos="fade-up" data-aos-delay="170">
                             <h3>Are there any certification or licensing requirements upon completion of the training?</h3>
                             <div class="content" style="display:none;">
                                 <p>The platform is designed to connect high school soccer players with coaches and teams, to help players reach the next level in their soccer careers.</p>

@@ -16,7 +16,7 @@
     <div class="container">
         <div class="contact-top">
             <div class="row">
-                <div class="col-md-6">
+                <div class="col-md-6" data-aos="fade-down">
                     <h3>JOIN OUR TEAM
                         BECOME A MORTGAGE BROKER</h3>
                     <p>Unlock your potential and make a difference. Start a rewarding career as a Mortgage Broker with us. Access comprehensive training, ongoing support, and a thriving network. Make an impact today.</p>
@@ -58,7 +58,7 @@
                         <input type="submit" class="btn join-us" value="Submit">
                     </form>
                 </div>
-                <div class="col-md-6">
+                <div class="col-md-6" data-aos="fade-up">
                     <img src="images/join-our-team.jpg" alt="">
                 </div>
             </div>

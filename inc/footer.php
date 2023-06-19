@@ -1,7 +1,7 @@
 <footer>
     <div class="container">
         <div class="row">
-            <div class="col-md-3">
+            <div class="col-md-3" data-aos="fade-up" data-aos-delay="50">
                 <img src="images/logo.svg" alt="">
                 <h6>We are dedicated to being your reliable partner in achieving success.</h6>
                 <ul class="social">
@@ -11,7 +11,7 @@
                     <li><a href="#"><i class="fa-brands fa-linkedin"></i></a></li>
                 </ul>
             </div>
-            <div class="col-md-2 col-6 offset-lg-1">
+            <div class="col-md-2 col-6 offset-lg-1" data-aos="fade-up" data-aos-delay="70">
                 <h3>Quick links</h3>
                 <nav>
                     <ul>
@@ -22,7 +22,7 @@
                     </ul>
                 </nav>
             </div>
-            <div class="col-md-3 col-6">
+            <div class="col-md-3 col-6" data-aos="fade-up" data-aos-delay="100">
                 <h3>Services</h3>
                 <ul>
                     <li><a href="#">New Agent Training</a></li>
@@ -31,7 +31,7 @@
                     <li><a href="#">Technology Forward</a></li>
                 </ul>
             </div>
-            <div class="col-lg-3 col-md-4">
+            <div class="col-lg-3 col-md-4" data-aos="fade-up" data-aos-delay="120">
                 <h3>Newsletter</h3>
                 <form action="">
                     <input type="email" name="" placeholder="Email">
@@ -112,7 +112,9 @@
 <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
 
 <script>
-    AOS.init();
+    AOS.init({
+        duration: 1000
+    });
 </script>
 
 </body>
