@@ -397,9 +397,10 @@ input[type=number]::-webkit-outer-spin-button {
   font-size: 1rem;
   line-height: 1.1875rem;
   color: #292d32;
+  max-width: 530px;
 }
 .banner-section .bntx a.glb-btn {
-  margin-top: 4.25rem;
+  margin-top: 2.5rem;
 }
 
 .hm-section1 {
@@ -449,6 +450,7 @@ input[type=number]::-webkit-outer-spin-button {
   color: #ffffff;
   margin-bottom: 1.25rem;
   position: relative;
+  max-width: 258px;
 }
 .hm-section2 .service-card .s-tx h3::before {
   content: "";
@@ -609,17 +611,17 @@ input[type=number]::-webkit-outer-spin-button {
   line-height: 1.375rem;
   text-align: left;
   color: #000000;
-  margin: 0;
+  margin: 0 0 8px 0;
+  max-width: inherit;
 }
 .hm-section8 ul li .content p {
-  text-align: left;
-  color: #7b7b7b;
-  padding: 0.8125rem 0 0rem;
-  margin: 0;
-  font-style: italic;
+  font-family: "Inter";
+  font-style: normal;
   font-weight: 400;
-  font-size: 1rem;
-  line-height: 1.5rem;
+  font-size: 16px;
+  line-height: 19px;
+  text-align: left;
+  color: #878787;
 }
 .hm-section8 ul li.active::after {
   content: "\f106";

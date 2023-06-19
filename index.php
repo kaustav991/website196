@@ -91,11 +91,12 @@
                         </div>
                     </div>
                 </div>
+
                 <div class="col-md-3">
                     <div class="service-card">
                         <img src="images/s6.jpg" alt="">
                         <div class="s-tx">
-                            <h3>Personalized Android/iphone App and site</h3>
+                            <h3>Personalized Android/ iphone App and site</h3>
                             <p>Access to your own customizable website and “my mortgage toolbox” app to share with clients and referral sources</p>
                             <a href="#">Download</a>
                         </div>
@@ -133,7 +134,7 @@
             <div class="row align-items-center">
                 <div class="col-lg-4 col-md-5">
                     <h2>We are​ here for​ all of your business ​needs</h2>
-                    <p>Let’s identify where you excel,​
+                    <p>Let’s identify where you excel,​<br>
                         and where you can improve.​DLC has got you covered.​</p>
                 </div>
                 <div class="col-md-6 offset-lg-2 offset-md-1">
