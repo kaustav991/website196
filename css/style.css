@@ -1223,6 +1223,9 @@ input[type=number]::-webkit-outer-spin-button {
   text-align: center;
 }
 
+.techgrid .row {
+  gap: 20px 0;
+}
 .techgrid .col-md-4,
 .techgrid .col-md-8 {
   margin-bottom: 1.25rem;
@@ -1340,9 +1343,6 @@ input[type=number]::-webkit-outer-spin-button {
   margin: 0 auto 3.75rem;
   text-align: center;
 }
-.tailored-marketing .col-md-6 {
-  margin-top: 1.25rem;
-}
 .tailored-marketing .col-md-6:nth-child(1), .tailored-marketing .col-md-6:nth-child(2) {
   margin-top: 0;
 }
@@ -1422,4 +1422,8 @@ input[type=number]::-webkit-outer-spin-button {
 }
 .booknow .mb15 strong {
   color: black;
+}
+
+.joinTeam .contact-top {
+  margin-bottom: 0;
 }/*# sourceMappingURL=style.css.map */

@@ -42,7 +42,7 @@
         </div>
         <div class="row">
             <div class="col-lg-12 copy-right">
-                <h5>© 2023 AdBoost. All rights reserved.</h5>
+                <h5>© 2023 Join mortgage force. All rights reserved.</h5>
             </div>
         </div>
     </div>

@@ -49,37 +49,37 @@
         <p>At DLC, we understand your business can’t grow if you don’t have the latest tools at your disposal. We offer the most innovative and cutting-edge technology solutions in the industry, whether it be our mobile app My Mortgage Toolbox that puts your clients in your pocket, or a support team ready to lend a hand with your technical needs.</p>
         <div class="techgrid">
             <div class="row">
-                <div class="col-lg-4 col-md-6">
+                <div class="col-md-4">
                     <div class="techgrid-item">
                         <h3>NEWTON</h3>
                         <p>Newton’s Velocity program offers peace of mind and greater business control by combining all mortgage processes into one simple, secure, cloud-based system. Through Velocity, you will be able to manage your prospects and clients every step of the journey.</p>
                     </div>
                 </div>
-                <div class="col-lg-8 col-md-6">
+                <div class="col-md-8">
                     <div class="techgrid-item">
                         <h3>MY MORTGAGE TOOLBOX APP</h3>
                         <p>A first-of-its-kind for the industry, My Mortgage Toolbox is an app that makes it easy for consumers to find a DLC mortgage broker nearest them, and get the best mortgage product at the lowest rate available. My Mortgage Toolbox guides the users while taking away all the stress of getting a mortgage. Some of the feature of the app include: mortgage calculators, stress-tests, search for the best mortgage rates, calculate total cost of home ownership, estimate additional costs and more.</p>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6">
+                <div class="col-md-3">
                     <div class="techgrid-item">
                         <h3>CRM</h3>
                         <p>Client Manager helps you stay in touch with your clients with an automated process that will send consistent, timely messages on specific mortgage related dates.</p>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6">
+                <div class="col-md-3">
                     <div class="techgrid-item">
                         <h3>PROPERTY VALUATION SYSTEM BY PUREVIEW (PVS)</h3>
                         <p>PVS is designed to improve your mortgage application efficiencies and protect your lender relationships by ensuring you have an accurate real estate value before spending hours on a file and or sending to a lender for approval.</p>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6">
+                <div class="col-md-3">
                     <div class="techgrid-item">
                         <h3>INTRANET</h3>
                         <p>Our intranet is a private network where DLC brokers have access to a vast array of tools and resources related to mortgage brokering.</p>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-6">
+                <div class="col-md-3">
                     <div class="techgrid-item">
                         <h3>AUTOPILOT</h3>
                         <p>Autopilot Media is a marketing tool offered to our brokers. It allows you to keep in contact with your clients with the goal of increasing your organic leads. Send monthly newsletters, birthday wishes and home anniversary messages to stay top of mind throughout the year.</p>

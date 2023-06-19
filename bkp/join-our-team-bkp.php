@@ -3,22 +3,22 @@
 <div class="innerbanner">
     <img src="images/innerbanner_agent-support.jpg" alt="">
     <div class="container">
-        <h2>Join Our Team</h2>
+        <h2>Technology forward</h2>
         <ul>
             <li><a href="#!">Home</a></li>
             <li><a href="#!">Services</a></li>
-            <li>Join Our Team</li>
+            <li>Technology forward</li>
         </ul>
     </div>
 </div>
 
-<div class="middle-section contact-us joinTeam">
+<div class="middle-section contact-us">
     <div class="container">
         <div class="contact-top">
             <div class="row">
                 <div class="col-md-6">
                     <h3>JOIN OUR TEAM
-                        BECOME A MORTGAGE BROKER</h3>
+BECOME A MORTGAGE BROKER</h3>
                     <p>Unlock your potential and make a difference. Start a rewarding career as a Mortgage Broker with us. Access comprehensive training, ongoing support, and a thriving network. Make an impact today.</p>
                     <form action="">
                         <div class="row">

@@ -843,12 +843,12 @@ input[type="number"]::-webkit-outer-spin-button {
         li {
           background-image: none;
           padding-left: 0;
-          a{
+          a {
             border: none;
             display: block;
             padding: 0;
             margin: 0;
-            img{
+            img {
               width: auto;
               margin: 0;
             }
@@ -901,7 +901,6 @@ input[type="number"]::-webkit-outer-spin-button {
           flex-direction: column;
           max-width: 30.3125rem;
           li {
-
           }
         }
       }
@@ -968,7 +967,7 @@ input[type="number"]::-webkit-outer-spin-button {
     }
   }
   &.privatePg {
-    .middle-top { 
+    .middle-top {
       a {
         border: none;
         color: #145096;
@@ -1131,8 +1130,6 @@ input[type="number"]::-webkit-outer-spin-button {
     font-size: 0.875rem;
     text-align: center;
   }
-
-  
 }
 .contact-top {
   margin-bottom: 5rem;
@@ -1171,7 +1168,6 @@ input[type="number"]::-webkit-outer-spin-button {
       }
     }
   }
-
 }
 
 .join-us {
@@ -1269,6 +1265,9 @@ input[type="number"]::-webkit-outer-spin-button {
 .techgrid {
   // column-gap: 1.9375rem;
   // row-gap: 1.25rem;
+  .row {
+    gap: 20px 0;
+  }
   .col-md-4,
   .col-md-8 {
     margin-bottom: 1.25rem;
@@ -1385,7 +1384,7 @@ input[type="number"]::-webkit-outer-spin-button {
     text-align: center;
   }
   .col-md-6 {
-    margin-top: 1.25rem;
+    // margin-top: 1.25rem;
     &:nth-child(1),
     &:nth-child(2) {
       margin-top: 0;
@@ -1471,4 +1470,8 @@ input[type="number"]::-webkit-outer-spin-button {
       color: black;
     }
   }
+}
+
+.joinTeam .contact-top {
+  margin-bottom: 0;
 }

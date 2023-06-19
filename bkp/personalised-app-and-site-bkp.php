@@ -3,11 +3,11 @@
 <div class="innerbanner">
     <img src="images/innerbanner_agent-support.jpg" alt="">
     <div class="container">
-        <h2>Personalized Android/iPhone App and site</h2>
+        <h2>Private WhatsApp group</h2>
         <ul>
             <li><a href="#!">Home</a></li>
             <li><a href="#!">Services</a></li>
-            <li>Personalized Android/iPhone App and site</li>
+            <li>Private WhatsApp group</li>
         </ul>
     </div>
 </div>
